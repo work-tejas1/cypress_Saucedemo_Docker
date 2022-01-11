@@ -1,0 +1,5 @@
+cypress/reports/assets/*
+*.log
+node_modules
+videos
+reports

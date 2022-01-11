@@ -1,0 +1,19 @@
+{
+    "username": "performance_glitch_user",
+    "password": "secret_sauce",
+    "productNames": [
+        "Sauce Labs Onesie",
+        "Sauce Labs Backpack"
+    ],
+    "inventoryTotalItems": 6,
+    "cartItemCount": 2,
+    "firstName": "Capmo",
+    "lastName": "Automation",
+    "postalCode": 12456,
+    "amountWithoutTax": "$37.98",
+    "tax": "$3.04",
+    "total": "$41.02",
+    "thankYouMsg": "THANK YOU FOR YOUR ORDER",
+    "orderCompleteMsg": "Your order has been dispatched, and will arrive just as fast as the pony can get there!",
+    "firstNameErrorMsg": "Error: First Name is required"
+}

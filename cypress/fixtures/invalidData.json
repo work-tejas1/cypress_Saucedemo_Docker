@@ -1,0 +1,6 @@
+{
+    "username": "falseUser",
+    "password": "wrong_secret_sauce",
+    "errorMessage": "Epic sadface: Username and password do not match any user in this service",
+    "invalidErrorMessage": "This is Intentionally Failed Test case for Screenshot"
+}
