@@ -1,5 +1,5 @@
 {
-  "name": "cypress_automation ",
+  "name": "cypress_automation",
   "version": "1.0.0",
   "description": "Automation using cypress for saucedemo",
   "main": "index.js",
